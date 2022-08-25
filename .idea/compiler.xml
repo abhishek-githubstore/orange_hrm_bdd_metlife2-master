@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="orange_hrm_bdd_metlife2-master" options="--add-exports java.xml/com.sun.org.apache.xalan.internal.lib=ALL-UNNAMED" />
+      <module name="orange_hrm_bdd_metlife2-master" options="" />
     </option>
   </component>
 </project>
